@@ -1,0 +1,17 @@
+CBMS-> All Trainee
+
+Foysal Vai 01914438841
+Assignment 
+Team Member->Arafat Rimon, Arifeen Mahmud
+Brta Service portal
+
+Demo Project
+
+technology use= Spring MVC-> html, bootstrap3,jsp,jstl,jquery ajax,javascript. 
+
+Database use ORM technology,Oracle SQL,PLSQL.
+
+Spring Security(XML Based)
+
+Make Jasper Report
+ 
